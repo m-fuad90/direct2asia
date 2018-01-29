@@ -194,7 +194,14 @@ $this->registerJs($script);
     <!-- BEGIN HEADER -->
     <div class="header">
       <div class="container">
-        <?= Html::a('Direct2Asia', ['site/index'], ['class' => 'site-logo']) ?>
+
+        <?php $imgs = Yii::$app->request->baseUrl.'/theme/assets/corporate/img/logos/d2a.png';  ?>
+
+        <?php $showimg =  Html::img($imgs);?>
+
+        <?= Html::a($showimg, ['site/index'], ['class' => 'site-logo']) ?>
+
+
 
 
         <a href="javascript:void(0);" class="mobi-toggler"><i class="fa fa-bars"></i></a>
@@ -215,6 +222,31 @@ $this->registerJs($script);
 
     <div class="main">
       <div class="container">
+
+        <!-- BEGIN STEPS -->
+        <div class="row margin-bottom-40 front-steps-wrapper front-steps-count-3">
+          <div class="col-md-4 col-sm-4 front-step-col">
+            <div class="front-step front-step1">
+              <h2>Step 1 :</h2>
+              <p>Request Quotation</p>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-4 front-step-col">
+            <div class="front-step front-step2">
+              <h2>Step 2 :</h2>
+              <p>Make An Order</p>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-4 front-step-col">
+            <div class="front-step front-step3">
+              <h2>Step 3 : </h2>
+              <p>Proceed Payment</p>
+            </div>
+          </div>
+        </div>
+        <!-- END STEPS -->
+
+
 		  
 		          <div class="rightinfo" id="rightinfo">
 
@@ -267,8 +299,6 @@ $this->registerJs($script);
         <div class="row">
           <!-- BEGIN BOTTOM ABOUT BLOCK -->
           <div class="col-md-4 col-sm-6 pre-footer-col">
-            <h2>About us</h2>
-            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam sit nonummy nibh euismod tincidunt ut laoreet dolore magna aliquarm erat sit volutpat.</p>
 
           </div>
           <!-- END BOTTOM ABOUT BLOCK -->
@@ -284,27 +314,17 @@ $this->registerJs($script);
         <div class="row">
           <!-- BEGIN COPYRIGHT -->
           <div class="col-md-4 col-sm-4 padding-top-10">
-            2015 © Keenthemes. ALL Rights Reserved. <a href="javascript:;">Privacy Policy</a> | <a href="javascript:;">Terms of Service</a>
+            2018 © direct2asia.com
           </div>
           <!-- END COPYRIGHT -->
           <!-- BEGIN PAYMENTS -->
           <div class="col-md-4 col-sm-4">
-            <ul class="social-footer list-unstyled list-inline pull-right">
-              <li><a href="javascript:;"><i class="fa fa-facebook"></i></a></li>
-              <li><a href="javascript:;"><i class="fa fa-google-plus"></i></a></li>
-              <li><a href="javascript:;"><i class="fa fa-dribbble"></i></a></li>
-              <li><a href="javascript:;"><i class="fa fa-linkedin"></i></a></li>
-              <li><a href="javascript:;"><i class="fa fa-twitter"></i></a></li>
-              <li><a href="javascript:;"><i class="fa fa-skype"></i></a></li>
-              <li><a href="javascript:;"><i class="fa fa-github"></i></a></li>
-              <li><a href="javascript:;"><i class="fa fa-youtube"></i></a></li>
-              <li><a href="javascript:;"><i class="fa fa-dropbox"></i></a></li>
-            </ul>  
+
           </div>
           <!-- END PAYMENTS -->
           <!-- BEGIN POWERED -->
           <div class="col-md-4 col-sm-4 text-right">
-            <p class="powered">Powered by: <a href="http://www.keenthemes.com/">KeenThemes.com</a></p>
+
           </div>
           <!-- END POWERED -->
         </div>

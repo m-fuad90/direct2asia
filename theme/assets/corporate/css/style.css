@@ -1,4 +1,3 @@
-/*   
 Template Name: Metronic - Responsive Website Template build with Twitter Bootstrap 3.1.1
 */
 
@@ -326,19 +325,24 @@ Custom Scrollbars
 Pre-Header and pre-header elements
 ***/
 .pre-header {
+
+
 	color: #616b76;
-	border-bottom: 1px solid #eee;
-	padding-top: 10px;
-	line-height: 1.2;
-	font-family: 'Open Sans', sans-serif;
-	font-weight: 300;
-	background: #fff;
+    border-bottom: 1px solid #eee;
+    padding-top: 10px;
+    line-height: 1.2;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    background: #c30101
+
+
+
 }
 .pre-header a {
-	color: #616b76;
+	color: #bfbfbf;
 }
 .pre-header a:hover {
-	color: #E02222;
+	color: #e8e8e8;
 }
 .pre-header a:focus {
 	text-decoration: none;
@@ -1436,7 +1440,8 @@ div.content-form-page .checkbox-list {
 Pre-Footer and pre-footer elements
 ***/
 .pre-footer {
-	background: #313030;
+
+	background: #7c858e;
 	color: #b0b0b0;
 }
 .pre-footer .container {
@@ -1700,7 +1705,7 @@ Pre-Footer and pre-footer elements
 
 /* footer */
 .footer {
-	background: #272626;
+	background: #7c858e;
 	color: #fff;
 	font-size: 12px;
 	padding: 15px 0;
