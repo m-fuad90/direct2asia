@@ -1,0 +1,23 @@
+Message-ID: <1fc40319c63fd346d78bc3bfe1bbc6f3@admin.direct2asia.local>
+Date: Mon, 22 Jan 2018 01:51:07 +0000
+Subject: Testing Multiple
+From: admin@example.com
+To: leso.fuad@gmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1516585867_a13c907457f25df34f1743f305a0ae03_=_"
+
+
+--_=_swift_v4_1516585867_a13c907457f25df34f1743f305a0ae03_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+--_=_swift_v4_1516585867_a13c907457f25df34f1743f305a0ae03_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<button class=3D"button button3">Green</button>
+
+--_=_swift_v4_1516585867_a13c907457f25df34f1743f305a0ae03_=_--

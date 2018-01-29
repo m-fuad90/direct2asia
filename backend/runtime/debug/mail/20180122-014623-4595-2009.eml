@@ -1,0 +1,61 @@
+Message-ID: <cea3b7d4d999d672fc8990d0ff4e2126@admin.direct2asia.local>
+Date: Mon, 22 Jan 2018 01:46:19 +0000
+Subject: Testing Multiple
+From: admin@example.com
+To: leso.fuad@gmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1516585579_755cbd7eb1bfc65c971059b001ddbd07_=_"
+
+
+--_=_swift_v4_1516585579_755cbd7eb1bfc65c971059b001ddbd07_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+With kind regards, My Application team
+Haha
+
+--_=_swift_v4_1516585579_755cbd7eb1bfc65c971059b001ddbd07_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+    </head>
+<body>
+    =
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3=
+.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1=
+999/xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3DUTF-8" />
+    <style type=3D"text/css">
+
+    .btn {=
+
+    =09color: red;
+    }
+
+    </style>
+    </head>
+<body>
+  =
+          <div class=3D"footer">With kind regards, My Application team</div=
+>
+    <button class=3D"btn">Haha</button>
+    </body>
+</html>
+    <=
+/body>
+</html>
+
+
+--_=_swift_v4_1516585579_755cbd7eb1bfc65c971059b001ddbd07_=_--

@@ -1,0 +1,68 @@
+Message-ID: <064797511e15224eb1a5654c734be1a0@admin.direct2asia.local>
+Date: Mon, 22 Jan 2018 02:29:17 +0000
+Subject: Testing Multiple
+From: admin@example.com
+To: leso.fuad@gmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1516588157_4426cd1f40175b9c3e89c7f7d9f21994_=_"
+
+
+--_=_swift_v4_1516588157_4426cd1f40175b9c3e89c7f7d9f21994_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+--_=_swift_v4_1516588157_4426cd1f40175b9c3e89c7f7d9f21994_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+
+        <style>
+      =
+  .button {
+            background-color: #4CAF50; /* Green */
+        =
+    border: none;
+            color: white;
+            padding: 15px 3=
+2px;
+            text-align: center;
+            text-decoration: none;=
+
+            display: inline-block;
+            font-size: 16px;
+    =
+        margin: 4px 2px;
+            cursor: pointer;
+        }
+
+  =
+      .button2 {background-color: #008CBA;} /* Blue */
+        .button3 {=
+background-color: #f44336;} /* Red */=20
+        .button4 {background-color=
+: #e7e7e7; color: black;} /* Gray */=20
+        .button5 {background-color:=
+ #555555;} /* Black */
+        </style>
+
+   =20
+    </head>
+<body>=
+
+       =20
+    </body>
+</html>
+
+
+--_=_swift_v4_1516588157_4426cd1f40175b9c3e89c7f7d9f21994_=_--

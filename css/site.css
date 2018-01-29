@@ -1,0 +1,57 @@
+.rightinfo {
+    position: fixed;
+    width: 140px;
+    background: #fff;
+    right: 0;
+    padding: 15px;
+    top: 300px;
+    height: 50px;
+    border-radius: 4px 0 0 4px;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);
+    background-color: #BFFCB7;
+
+}
+.rightform {
+    position: fixed;
+    width: 440px;
+    background: #fff;
+    right: 0;
+    padding: 25px;
+    top: 100px;
+    height: auto;
+    border-radius: 4px 0 0 4px;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);
+
+
+}
+.iframe {
+    width: 100%;
+    height: 800px;
+}
+
+ul.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+ul.menu li {
+    float: left;
+}
+
+ul.menu li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ul.menu li a:hover:not(.active) {
+    background-color: #ddd;
+}
+
+ul.menu li a.active {
+    color: white;
+    background-color: #4CAF50;
+}

@@ -1,0 +1,66 @@
+Message-ID: <ace09b0dd7e1f8413d872e170bb689df@admin.direct2asia.local>
+Date: Mon, 22 Jan 2018 02:02:32 +0000
+Subject: Testing Multiple
+From: admin@example.com
+To: m.fuad_90@yahoo.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1516586552_9f9c4229ba6c38bdff08a560da19a495_=_"
+
+
+--_=_swift_v4_1516586552_9f9c4229ba6c38bdff08a560da19a495_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+hahahaah
+
+--_=_swift_v4_1516586552_9f9c4229ba6c38bdff08a560da19a495_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+<style>
+.button {
+    b=
+ackground-color: #4CAF50; /* Green */
+    border: none;
+    color: whit=
+e;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoratio=
+n: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: =
+4px 2px;
+    cursor: pointer;
+}
+
+.button2 {background-color: #008CB=
+A;} /* Blue */
+.button3 {background-color: #f44336;} /* Red */=20
+.button=
+4 {background-color: #e7e7e7; color: black;} /* Gray */=20
+.button5 {backgr=
+ound-color: #555555;} /* Black */
+</style>
+
+   =20
+    </head>
+<bod=
+y>
+       =20
+<button class=3D"button button3">hahahaah</button>    </bod=
+y>
+</html>
+
+
+--_=_swift_v4_1516586552_9f9c4229ba6c38bdff08a560da19a495_=_--
