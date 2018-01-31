@@ -42,15 +42,7 @@ $this->registerJs($script);
             <li>
                 <a id="fisher" href="https://www.fishersci.com/us/en/home.html">FISHER</a>
             </li>
-            <li>
-                <a id="behr" href="http://www.behr-labor.de/">BEHR-LABOR</a>
-            </li>
-            <li>
-                <a id="wisher" href="http://www.witeg.de/">WITEG</a>
-            </li>
-            <li>
-                <a id="ika" href="https://www.ika.com/my">IKA</a>
-            </li>
+
         </ul>
         <br>
 

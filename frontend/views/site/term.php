@@ -16,7 +16,7 @@ $this->params['breadcrumbs'][] = $this->title;
 <br>
 <b>Terms & Conditions</b>
 <br>
-<p>These terms and conditions apply to the use of this website and the ordering and delivery of Products from AsiaEBuy. Please read the Terms and Conditions carefully before placing your Order. These Terms and Conditions contain important information about the ordering and delivery of goods, including limitations of liability.</p>
+<p>These terms and conditions apply to the use of this website and the ordering and delivery of Products from Direct2asia. Please read the Terms and Conditions carefully before placing your Order. These Terms and Conditions contain important information about the ordering and delivery of goods, including limitations of liability.</p>
 
  
 
@@ -26,7 +26,7 @@ $this->params['breadcrumbs'][] = $this->title;
 
 <b>1. Agreement</b>
 <br>
-<p>1.1 In these Terms and Conditions "Seller" means AsiaEBuy and "Buyer" means the person who accepts these Terms and Conditions, by using this Website and associated software, networks and processes, including the purchase of Products or services through the Website.</p>
+<p>1.1 In these Terms and Conditions "Seller" means Direct2asia and "Buyer" means the person who accepts these Terms and Conditions, by using this Website and associated software, networks and processes, including the purchase of Products or services through the Website.</p>
 
  
 
@@ -40,7 +40,7 @@ $this->params['breadcrumbs'][] = $this->title;
  
 <b>2. Legal Capacity</b>
 <br>
-<p>If Buyer is under the age of eighteen (18) years, the Buyer cannot place Orders with AsiaEBuy. By accepting this Agreement, Buyer acknowledges that Buyer is over the age of eighteen (18) years.</p>
+<p>If Buyer is under the age of eighteen (18) years, the Buyer cannot place Orders with Direct2asia. By accepting this Agreement, Buyer acknowledges that Buyer is over the age of eighteen (18) years.</p>
 
  
 <b>3. Website Use</b>
@@ -76,7 +76,7 @@ $this->params['breadcrumbs'][] = $this->title;
  
 <b>6. Order and Payment</b>
 <br>
-<p>6.1 Payment for Orders will be processed immediately upon confirmation of the Order. AsiaEBuy requires upfront payment before processing the order(s).</p>
+<p>6.1 Payment for Orders will be processed immediately upon confirmation of the Order. Direct2asia requires upfront payment before processing the order(s).</p>
 
  
 
@@ -85,32 +85,32 @@ $this->params['breadcrumbs'][] = $this->title;
  
 
 <b>7. Delivery And Ownership Of The Goods</b><br>
-<p>7.1 Seller tries to ensure that all Products are delivered in a prompt and timely manner. However, from time to time, it is possible that shipping and other factors out of control may result in delays. AsiaEBuy does not accept any liability for loss or damage suffered by anyone as a result of any such delays.</p>
+<p>7.1 Seller tries to ensure that all Products are delivered in a prompt and timely manner. However, from time to time, it is possible that shipping and other factors out of control may result in delays. Direct2asia does not accept any liability for loss or damage suffered by anyone as a result of any such delays.</p>
 
  
 
-<p>7.2 The lead time listed on the Website is the estimated date of delivery by AsiaEBuy.</p>
+<p>7.2 The lead time listed on the Website is the estimated date of delivery by Direct2asia.</p>
 
  
 
-<p>7.3 AsiaEBuy will not deliver Products to PO Box addresses.</p>
+<p>7.3 Direct2asia will not deliver Products to PO Box addresses.</p>
 
  
 
-<p>7.4 The couriers or postal services nominated by AsiaEBuy will deliver Products during local business hours.</p>
+<p>7.4 The couriers or postal services nominated by Direct2asia will deliver Products during local business hours.</p>
 
  
 
-<p>7.5 AsiaEBuy shall not be liable for any inaccuracy of information provided to Buyer.</p>
+<p>7.5 Direct2asia shall not be liable for any inaccuracy of information provided to Buyer.</p>
 
  
 
-<p>7.6 AsiaEBuy reserves the right to not ship to remote or rural locations.</p>
+<p>7.6 Direct2asia reserves the right to not ship to remote or rural locations.</p>
 
  
 
 <b>8. Faulty Or Damaged Goods</b><br>
-<p>8.1 AsiaEBuy will repair, replace or refund faulty or damaged Products. Please contact AsiaEBuy Customer Service.</p>
+<p>8.1 Direct2asia will repair, replace or refund faulty or damaged Products. Please contact Direct2asia Customer Service.</p>
 
  
 <b>9. Refunds And Returns</b><br>
@@ -147,9 +147,9 @@ $this->params['breadcrumbs'][] = $this->title;
  
 
 <b>11. Liability</b><br>
-<p>11.1 To the extent permitted by law, AsiaEBuy will not be liable for any loss of income, loss of profits, loss of contracts, loss of data or for any indirect or consequential loss or damage of any kind howsoever arising and whether caused by tort (including negligence), breach of contract or otherwise; and our maximum aggregate liability for any Product supplied to Buyer whether in contract, tort (including negligence) or otherwise shall in no circumstances exceed the amount payable by Buyer to Seller in respect of the Product(s) in question.</p>
+<p>11.1 To the extent permitted by law, Direct2asia will not be liable for any loss of income, loss of profits, loss of contracts, loss of data or for any indirect or consequential loss or damage of any kind howsoever arising and whether caused by tort (including negligence), breach of contract or otherwise; and our maximum aggregate liability for any Product supplied to Buyer whether in contract, tort (including negligence) or otherwise shall in no circumstances exceed the amount payable by Buyer to Seller in respect of the Product(s) in question.</p>
 
  
 
 <b>12. Intellectual Property</b><br>
-<p>12.1 All Intellectual Property in any Material on the Website is the property of AsiaEBuy.</p>
+<p>12.1 All Intellectual Property in any Material on the Website is the property of Direct2asia.</p>
