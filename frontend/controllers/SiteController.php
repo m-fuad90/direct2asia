@@ -301,12 +301,38 @@ class SiteController extends Controller
         $paypal->date = date('Y-m-d');
         $paypal->date_time = date('Y-m-d H:i:s');
 
-        $paypal->save();
+        $model = Project::find()
+        ->where(['_id'=> (string)$project])
+        ->one();
 
-        return $this->redirect(['index']);
+        $model->status = 'Payment Success';
+        $model->shipping_status = 'Processing';
+
+        $paypal->save() && $model->save();
+
+        return $this->redirect(['view','project'=>(string)$project]);
 
     }
 
+
+    public function actionView($project)
+    {
+
+        $model = Project::find()
+        ->where(['_id'=> (string)$project])
+        ->one();
+
+        $paypal = Paypal::find()
+        ->where(['project'=> (string)$project])
+        ->one();
+
+
+
+        return $this->render('view',[
+            'model' => $model,
+            'paypal' => $paypal,
+        ]);
+    }
 
     /**
      * Logs in a user.

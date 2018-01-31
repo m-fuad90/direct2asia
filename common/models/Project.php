@@ -59,7 +59,10 @@ class Project extends \yii\mongodb\ActiveRecord
             'file',
             'path',
             'ext',
-            'date_upload'
+            'date_upload',
+            'shipping_status',
+            'tracking_no',
+            'courier'
 
 
         ];
@@ -71,7 +74,7 @@ class Project extends \yii\mongodb\ActiveRecord
     public function rules()
     {
         return [
-            [['rfq', 'quotation_no', 'date_quotation', 'date_time_quotation','status','email','contact','item','currency','quantity','specification','description','price_unit','shipping_charge_per_item','discount_per_item','remark_per_item','shipping','discount','tax','type_tax','remark','validity','lead_time','total','in_percen','sub_total','file','path','ext','date_upload'], 'safe']
+            [['rfq', 'quotation_no', 'date_quotation', 'date_time_quotation','status','email','contact','item','currency','quantity','specification','description','price_unit','shipping_charge_per_item','discount_per_item','remark_per_item','shipping','discount','tax','type_tax','remark','validity','lead_time','total','in_percen','sub_total','file','path','ext','date_upload','shipping_status','tracking_no','courier'], 'safe']
         ];
     }
 

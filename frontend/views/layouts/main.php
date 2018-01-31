@@ -106,6 +106,10 @@ $this->registerJs($script);
                           <li>
                             <?= Html::a('Quotation', ['/rfq/quotation'], ['class' => '']) ?>
                           </li>
+                          <li>
+                            <?= Html::a('Order', ['/rfq/order'], ['class' => '']) ?>
+                          </li>
+
 						              <li>
 
                           <?php if (count($notifyCustomer) == 0) { ?>

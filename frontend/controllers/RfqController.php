@@ -10,6 +10,7 @@ use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;
 use common\models\User;
 use yii\filters\AccessControl;
+use common\models\Project;
 /**
  * RfqController implements the CRUD actions for Rfq model.
  */
@@ -25,7 +26,7 @@ class RfqController extends Controller
                 'class' => AccessControl::className(),
                 'rules' => [
                     [
-                        'actions' => ['index','quotation'],
+                        'actions' => ['index','quotation','order'],
                         'allow' => true,
                         'roles' => ['@'],
                     ],
@@ -85,6 +86,23 @@ class RfqController extends Controller
     }
 
 
+    public function actionOrder()
+    {
+
+        $user = User::find()
+        ->where(['_id'=>Yii::$app->user->identity->id])
+        ->one();
+
+        $list = Project::find()->where(
+            [
+                'email' => $user->email,
+                'status' => 'Payment Success'
+            ])->all();
+
+        return $this->render('order', [
+            'list' => $list,
+        ]);
+    }
 
 
 

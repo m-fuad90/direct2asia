@@ -76,8 +76,6 @@ class RfqController extends Controller
 
 
 
-
-
     public function actionUpload($project)
     {
         $model = new UploadForm();

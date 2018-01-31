@@ -12,3 +12,4 @@ Yii::setAlias('@admin', 'http://admin.direct2asia.local/');
 Yii::setAlias('@d2a', 'https://www.direct2asia.com/');
 Yii::setAlias('@paypal', 'https://www.direct2asia.com/site/');
 Yii::setAlias('@admin', 'https://www.direct2asia.com/administrator/');
+

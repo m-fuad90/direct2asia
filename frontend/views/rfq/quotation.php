@@ -29,10 +29,6 @@ $this->params['breadcrumbs'][] = $this->title;
         <?php $i=0; foreach ($list as $key => $value) { $i++;
 
             $project = Project::find()->where(['rfq'=>(string)$value['_id']])->one();
-
-
-
-
             ?>
             <tr>
                 <td><?= $i; ?></td>

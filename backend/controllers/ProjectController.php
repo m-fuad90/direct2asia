@@ -244,7 +244,6 @@ class ProjectController extends Controller
 
         $notification->save();
 		
-
         $url = $d2a.'/site/notification?id='.(string)$model->_id.'&module=quoted';
 
         $from =  Yii::$app->params['adminEmail'];
