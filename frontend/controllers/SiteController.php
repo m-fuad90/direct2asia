@@ -73,6 +73,20 @@ class SiteController extends Controller
     }
 
 
+    public function actionPolicy()
+    {
+        return $this->render('policy');
+
+    }
+
+    public function actionTerm()
+    {
+        return $this->render('term');
+
+    }
+
+
+
     public function actionNotification($id,$module)
     {
 
@@ -308,7 +322,13 @@ class SiteController extends Controller
         $model->status = 'Payment Success';
         $model->shipping_status = 'Processing';
 
-        $paypal->save() && $model->save();
+        $rfq = Rfq::find()
+        ->where(['_id'=> (string)$model->rfq])
+        ->one();
+
+        $rfq->status = 'Payment Success';
+
+        $paypal->save() && $model->save() && $rfq->save();
 
         return $this->redirect(['view','project'=>(string)$project]);
 

@@ -254,7 +254,7 @@ $this->registerJs($script);
 		  
 		          <div class="rightinfo" id="rightinfo">
 
-            <a class="" href="#" style="text-decoration: none;color: #000000;">Get A Quote</a>
+            <a class="" href="#" style="text-decoration: none;color: #fff;">GET A QUOTE</a>
 
         </div>
 
@@ -303,7 +303,15 @@ $this->registerJs($script);
         <div class="row">
           <!-- BEGIN BOTTOM ABOUT BLOCK -->
           <div class="col-md-4 col-sm-6 pre-footer-col">
+  
+            <p>
+                <?= Html::a('Privacy Policy', ['/site/policy'], ['class' => '']) ?>
 
+            </p>
+            <p>
+              <?= Html::a('Term & Conditions', ['/site/term'], ['class' => '']) ?>
+              
+            </p>
           </div>
           <!-- END BOTTOM ABOUT BLOCK -->
 
